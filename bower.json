@@ -1,0 +1,21 @@
+{
+  "name": "cdi-sub",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alex (Jinghao) Yan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
